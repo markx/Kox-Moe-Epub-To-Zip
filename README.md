@@ -3,9 +3,9 @@
 Source from [Kox-Moe-Epub-To-Zip](https://github.com/Dean-Zheng/Kox-Moe-Epub-To-Zip)
 
 ### Change
--[x] Removed the GUI
--[x] Added default values for output input parameters
--[ ] Calibre plugin support
+- [x] Removed the GUI
+- [x] Added default values for output input parameters
+- [ ] Calibre plugin support
 
 ### Usage
 #### Command Line Arguments
